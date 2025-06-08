@@ -1,11 +1,17 @@
-DESKTOP APP FRONT-END CONTROLLING SMART-HOME
-This Desktop Application is designed to control a Smart Home system by sending user requests from the app interface to a cloud server. The project leverages Firebase, a cloud service provided by Google Cloud, to handle real-time data transmission.
+# 🖥️ DESKTOP APP FRONT-END CONTROLLING SMART-HOME
+
+This Desktop Application is designed to control a Smart Home system by sending user requests from the app interface to a cloud server. The project leverages **Firebase**, a cloud service provided by **Google Cloud**, to handle real-time data transmission.
+
 When a request is sent from the app, the data is pushed to Firebase. Firebase then forwards the request to the Smart Home system, enabling users to control devices in their home remotely and efficiently.
-________________________________________
-🔧 Technologies Used
-•	Visual Studio
-•	C#
-•	Firebase Realtime Database
+
+---
+
+## 🔧 Technologies Used
+
+- 🧰 Visual Studio
+- 💻 C# (.NET Framework / Windows Forms / WPF)
+- ☁️ Firebase Realtime Database
+
 
 ## 🚀 Some images of this application
 ![image](https://github.com/user-attachments/assets/40d7caa5-9964-4e79-8214-89cf2ab43420)
